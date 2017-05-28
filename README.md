@@ -11,7 +11,7 @@ manchmal hat der server "probleme", so dass es einfach nicht funktioniert, einfa
 ## config
 set username and password in code
 
-## prequesists
+## prequesits
 pip3 install urllib3 beautifulsoup4 requests
 
 ## doku
